@@ -12,7 +12,7 @@ Hello there!👋 <img src ="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/gip
 - 📫 How to reach me : <b><i>shanetydrew-byte@proton.me</i></b>
 - 🌐 Visit my website : <a href="https://drew-byte.github.io/"> <b><i>drew-byte.github.io</i></b>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/drew-byte/java_code)
+![GitHub last commit](https://img.shields.io/github/last-commit/drew-byte/java_code) <sup><strong><i> in Java Repo </i></strong></sup>
 ![GitHub followers](https://img.shields.io/github/followers/drew-byte?style=social)
 </body>
 </html>
