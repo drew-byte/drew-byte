@@ -7,7 +7,7 @@ Hello there!👋 <img src ="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/gip
 <body>
 
 
-- 🌱 I’m currently learning **Python** , **R** , **Cpp** , **JS** and **Java Frameworks**.
+- 🌱 I’m currently learning **Python** , **R** , **Cpp** , **JS** , **Java Frameworks** and **WEB Dev**.
 - 🤔 I’m looking for help with **Assembly Language TASM**.
 - 📫 How to reach me : <b><i>shanetydrew-byte@proton.me</i></b>
 - 🌐 Visit my website : <a href="https://drew-byte.github.io/"> <b><i>drew-byte.github.io</i></b>
