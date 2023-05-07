@@ -8,7 +8,7 @@ Hello There!👋 <img src = "https://komarev.com/ghpvc/?username=drew-bytel&colo
   
 
 <body>
-   :shipit:  Aspiring Software Engineer and Full Stack Web Developer.
+   :shipit:  i m  -  l a z y.
   <br><br>
 
 
