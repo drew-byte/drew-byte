@@ -14,6 +14,7 @@ Hello There!👋 <img src = "https://komarev.com/ghpvc/?username=drew-bytel&colo
 
 - 🌱 I’m currently studying as a 3rd Year College Student. 
 - 📫 How to reach me : <b><i>shanetydrew-byte@proton.me</i></b>
+- 📝 My personal notes : <a href="https://www.notion.so/drew-bytes/drew-byte-03722155e7d04c7b9166a7670efa0f58"> <b><i>https://www.notion.so/drew-bytes/</i></b>
 - :bowtie: Visit my Portfolio : <a href="https://sites.google.com/neu.edu.ph/drew-byte/home"> <b><i>https://sites.google.com/neu.edu.ph/drew-byte/home</i></b>
 - 🌐 Visit my website : <a href="https://drew-byte.github.io/"> <b><i>drew-byte.github.io</i></b>
   <br>
