@@ -18,6 +18,8 @@ Hello There!👋 <img src = "https://komarev.com/ghpvc/?username=drew-bytel&colo
 - :bowtie: Visit my Portfolio : <a href="https://sites.google.com/neu.edu.ph/drew-byte/home"> <b><i>https://sites.google.com/neu.edu.ph/drew-byte/home</i></b>
 - 🌐 Visit my website : <a href="https://drew-byte.github.io/"> <b><i>drew-byte.github.io</i></b>
   <br>
+- 💼 My LinkedIn : <a href="https://www.linkedin.com/in/andrew-felix-cunanan-6888a220b/"> <b><i>LinkedIn Account</i></b>
+- 🚩 CTF Accounts : <b><i>TryHackMe</i></b> [ shanetydraw ]  , <b><i>HackTheBox</i></b> [ drewbyte ]
  
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/drew-byte/java_code?label=last%20commit%20in%20java%20repo&style=flat-square)
