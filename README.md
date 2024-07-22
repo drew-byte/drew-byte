@@ -19,7 +19,7 @@ Hello World! <img src = "https://komarev.com/ghpvc/?username=drew-bytel&color=19
 ![Github followers](https://img.shields.io/github/followers/drew-byte?color=blue&style=flat-square)
 <br>
 <br>
-<b><i>PWNEU{d0rk!ng}</i></b>
+<b><i>CSOG{d0rk!ng}</i></b>
 </body>
 </html>
 
