@@ -8,18 +8,17 @@ Hello World! <img src = "https://komarev.com/ghpvc/?username=drew-bytel&color=19
   
 
 <body>
-   :shipit:  i m  -  a  -  c o m p u t e r  -  e n t h u s i a s t.
+   :shipit:   I n f o r m a t i o n - S e c u r i t y - A n a l y s t .
   <br><br>
 
 
-- 🌱 I’m currently studying as a 4th Year College Student. 
+- 🌱 I am a student, as always.
 - 📫 How to reach me : <b><i>shanetydrew-byte@proton.me</i></b>
   <br>
  
 ![Github followers](https://img.shields.io/github/followers/drew-byte?color=blue&style=flat-square)
 <br>
 <br>
-<b><i>CSOG{d0rk!ng}</i></b>
 </body>
 </html>
 
