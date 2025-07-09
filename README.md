@@ -13,7 +13,6 @@ Hello World! <img src = "https://komarev.com/ghpvc/?username=drew-bytel&color=19
 
 
 - 🌱 I am a student, as always.
-- 📫 How to reach me : <b><i>shanetydrew-byte@proton.me</i></b>
   <br>
  
 ![Github followers](https://img.shields.io/github/followers/drew-byte?color=blue&style=flat-square)
